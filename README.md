@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divanpedro123
 - 👀 I'm interested in learning new programming languages, web development and applications, and etc...
-- 🌱 I'm currently learning c, java, html5 and css3.
+- 🌱 I'm currently learning c, java, javascript and typescript.
 - 💞️ I look forward to collaborate in projects, activities and much more.
 - 📫 Reach me in the dms.
 
