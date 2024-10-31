@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Divanpedro123
-- 👀 I'm interested in learning new programming languages, web development and applications, and etc...
-- 🌱 I'm currently learning c, java, javascript, reactjs and typescript.
-- 💞️ I look forward to collaborate in projects, activities and much more.
-- 📫 Reach me in the dms.
+👋 Olá! Sou um estudante de Engenharia Informática com uma paixão por desenvolvimento e inovação tecnológica. Trabalho com desenvolvimento web, usando HTML, CSS e JavaScript para criar interfaces intuitivas e reativas, e tenho experiência em desenvolvimento mobile com React Native. Além disso, sou programador em C e Java, sempre em busca de soluções otimizadas e escaláveis.
+
+💼 No campo de bancos de dados, tenho habilidades sólidas em MySQL, essencial para criar aplicações robustas e com performance. Sou movido por desafios, aprendendo constantemente e colaborando em projetos que fazem a diferença.
+
+🚀 Vamos criar algo incrível juntos?
 
 <!---
 Divanpedro123/Divanpedro123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
