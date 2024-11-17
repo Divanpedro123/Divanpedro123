@@ -1,6 +1,6 @@
-👋 Olá! Sou um estudante de Engenharia Informática com uma paixão por desenvolvimento e inovação tecnológica. Trabalho com desenvolvimento web, usando HTML, CSS e JavaScript para criar interfaces intuitivas e reativas, e tenho experiência em desenvolvimento mobile com React Native. Além disso, sou programador em C e Java, sempre em busca de soluções otimizadas e escaláveis.
+👋 Olá! Sou um estudante de Engenharia Informática com uma paixão por desenvolvimento e inovação tecnológica. Trabalho com desenvolvimento web, usando HTML, CSS e JavaScript para criar interfaces intuitivas e reativas, e tenho experiência em desenvolvimento com React Native. Além disso, sou programador em C e Java, sempre em busca de soluções otimizadas e escaláveis.
 
-💼 No campo de bancos de dados, tenho habilidades sólidas em MySQL, essencial para criar aplicações robustas e com performance. Sou movido por desafios, aprendendo constantemente e colaborando em projetos que fazem a diferença.
+💼 No campo de bancos de dados, tenho habilidades em MySQL, essencial para criar aplicações robustas e com performance. Sou movido por desafios, aprendendo constantemente e colaborando em projetos que fazem a diferença.
 
 🚀 Vamos criar algo incrível juntos?
 
