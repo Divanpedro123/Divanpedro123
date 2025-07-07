@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Olá! Sou Divan Pedro, estudante de Engenharia Informática, programador full stack e apaixonado por usar a tecnologia como ponte para soluções reais e transformadoras.<br><br>
-🚀 Trabalho com desenvolvimento web e mobile, criando interfaces responsivas, funcionais e orientadas à experiência do utilizador, com HTML, CSS, JavaScript, React Native e Angular. Também programo em C, Java e C#, sempre com foco em escrever código limpo, eficiente e escalável.
-💡 Acredito que cada linha de código pode carregar um propósito. Por isso, estou em constante aprendizagem, desenvolvendo projetos que unem inovação, propósito e impacto social.
-🗃️ Tenho experiência em banco de dados como MySQL e SQL Server, integrando dados com performance e segurança.
-💼 Hoje, também estou à frente de uma startup que combina saúde, tecnologia e estilo de vida saudável, unindo propósito pessoal e inovação digital.
-🔍 Estou sempre aberto a aprender, colaborar e criar soluções que façam a diferença. Vamos criar algo incrível juntos?
+🚀 Trabalho com desenvolvimento web e mobile, criando interfaces responsivas, funcionais e orientadas à experiência do utilizador, com HTML, CSS, JavaScript, React Native e Angular. Também programo em C, Java e C#, sempre com foco em escrever código limpo, eficiente e escalável.<br>
+💡 Acredito que cada linha de código pode carregar um propósito. Por isso, estou em constante aprendizagem, desenvolvendo projetos que unem inovação, propósito e impacto social.<br>
+🗃️ Tenho experiência em banco de dados como MySQL e SQL Server, integrando dados com performance e segurança.<br>
+💼 Hoje, também estou à frente de uma startup que combina saúde, tecnologia e estilo de vida saudável, unindo propósito pessoal e inovação digital.<br>
+🔍 Estou sempre aberto a aprender, colaborar e criar soluções que façam a diferença. Vamos criar algo incrível juntos?<br>
 
 
 ## 🌐 Socials:
